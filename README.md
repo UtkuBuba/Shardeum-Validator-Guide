@@ -4,6 +4,8 @@
 
 > [Referral](https://shardeum.org/incentivized-testnet/referral) kısmına utkububa yazıp sign tıklarsanız bu repoya en güzel desteğiniz olur
 
+> Bu reponun yazılmasında desteği olan [Garfield](https://x.com/olcayunal1o) hocama teşekkürler
+
 # Minimum Donanım Gereksinimleri
 
 > 250 GB SSD depolama
