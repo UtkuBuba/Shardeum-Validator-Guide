@@ -18,6 +18,35 @@
 
 > Barındırma: 8 GB RAM + 8 GB Sanal Bellek
 
+# Script ile kurulum
+### Script ile kurmak isterseniz burdan başlayın. Manuel kurulum reponun devamında mevcut.
+> Kurulum script'ini indirin
+```console
+curl -O https://raw.githubusercontent.com/UtkuBuba/Shardeum-Validator-Guide/blob/main/initial_setup.sh
+```
+
+> Script'i çalıştırılabilir hale getirin
+```console
+chmod +x initial_setup.sh
+```
+
+> Script'i çalıştırın
+```console
+./initial_setup.sh
+```
+
+> Kullanıcı değiştirin (gerekli komut script çıktısında bulunmaktadır.)
+```console
+su - <kullanıcı-adınız>
+```
+
+> Validator Kurulum scriptini çalıştırın
+```console
+./shardeum_setup.sh
+```
+> Reponun devamındaki Validator Gui adımından devam edebilirsiniz
+
+# Manuel kurulum
 ## Paket yöneticilerini kurun
 
 ```console
