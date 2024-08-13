@@ -91,7 +91,7 @@ sudo apt-get install build-essential
 
 ### GCC yükleyin
 ```console
-sudo apt-get install build-essential
+brew install gcc
 ```
 
 ## Paket yöneticilerini güncelleyin
